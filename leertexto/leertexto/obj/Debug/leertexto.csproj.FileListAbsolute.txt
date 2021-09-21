@@ -1,0 +1,10 @@
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.csprojAssemblyReference.cache
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.Form1.resources
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.Properties.Resources.resources
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.csproj.GenerateResource.cache
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.csproj.CoreCompileInputs.cache
+C:\Users\gglar\source\repos\leertexto\leertexto\bin\Debug\leertexto.exe.config
+C:\Users\gglar\source\repos\leertexto\leertexto\bin\Debug\leertexto.exe
+C:\Users\gglar\source\repos\leertexto\leertexto\bin\Debug\leertexto.pdb
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.exe
+C:\Users\gglar\source\repos\leertexto\leertexto\obj\Debug\leertexto.pdb
